@@ -1,0 +1,4 @@
+#Thu Feb 14 15:05:35 IST 2019
+base.0=C\:\\Users\\URAWYYA\\Web Projects\\flutter-demo\\pokemon\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
